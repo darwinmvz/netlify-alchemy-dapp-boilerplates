@@ -1,4 +1,4 @@
-import styles from "../styles/Home.module.css";
+import styles from "../styles/Home.module.s";
 import InstructionsComponent from "../components/InstructionsComponent";
 
 export default function Home() {
